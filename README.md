@@ -9,10 +9,13 @@ The game will begin immediately, and you can start playing by following the on-s
 ## Game play
 Both players need to be physically present to take turns placing their marks on the board. Player X always starts the game.
 When you run the program, the game board is displayed as shown below:
-<img src="screenshots/GameStart.png" alt="Game Start" width=500px>
+
+<img src="screenshots/gameStart.png" alt="Game Start" width=400px>
 
 Player X makes the first move by selecting a position on the board. Then, Player O takes their turn, and the game continues with players alternating turns. Each new turn updates the board, like this:
-<img src="screenshots/NewTurn.png" alt="New Turn" width=500px>
+
+<img src="screenshots/newTurn.png" alt="New Turn" width=400px>
 
 The game ends when one player wins by placing three of their marks in a row (horizontally, vertically, or diagonally), or when the board is full without a winner (a draw). When a player wins, the final board is displayed with a congratulatory message, for example:
-<img src="screenshots/GameWon.png" alt="Game Won" width=500px>
+
+<img src="screenshots/gameWon.png" alt="Game Won" width=400px>
