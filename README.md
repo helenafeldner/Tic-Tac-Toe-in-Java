@@ -3,8 +3,9 @@ This is a simple two-player Tic Tac Toe game played in the terminal. It's my fir
 
 ## How to compile and run the code
 Open a terminal and navigate to the directory containing the Java files. Then run the following command to compile and start the game:
-
-$ javac Main.java && java Main
+```bash
+javac Main.java && java Main
+```
 
 The game will begin immediately, and you can start playing by following the on-screen prompts.
 
